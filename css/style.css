@@ -37,7 +37,8 @@ div{
     min-height: 125px;
     padding: 20px;
     border: 3px solid#ffffff;
-    box-sizing: border-box;
+    
+    
 }
 
 .introduction{
@@ -77,7 +78,7 @@ div{
 }
 
 .green{
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px;
